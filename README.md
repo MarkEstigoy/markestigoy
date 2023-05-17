@@ -1,5 +1,5 @@
-Hi there my name is Mark
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h1>Hi, I'm Mark, an <a href="https://linkedin.com/in/Josh">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
