@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups in Azure](https://github.com/MarkEstigoy/creatingresourcegroup.git)
+  - [Creating Resource Groups and Virtual Machines in Azure](https://github.com/MarkEstigoy/creatingresourcegroup.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarkEstigoy/networksecuritygroups)
   - [Configuring Active Directory within Azure VMs](https://github.com/MarkEstigoy/configactivedirectory)
 - <b>osTicket (Help Desk Ticketing System)</b>
